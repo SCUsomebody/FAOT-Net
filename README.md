@@ -1,2 +1,2 @@
 # FAOT-Net
-Due to other work arrangements, we will organize and then upload the code after the CVPR2024 submission deadline.
+Due to other arrangements, I will organize and then upload the code after the ECCV work and graduate thesis-related work.
